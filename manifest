@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+ <name>Stream Dota2 v1lat</name>
+ <version>1.0.0</version>
+ <hosts>
+  <host name="V1lat">
+   <base type="HTML" apiVersion="1.0.0" src="main.html" />
+   <permissions>Full</permissions>
+   <platform minPlatformVersion="1.0" />
+  </host>
+ </hosts>
+  <icons>
+    <icon width="64" height="64" src="icon.png" />
+  </icons> 
+ <author name="Babkatyt">
+  <info url="vilat.tv" />
+ </author>
+ <description>V1lat info</description>
+</gadget>
